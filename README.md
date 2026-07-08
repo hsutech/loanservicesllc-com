@@ -1,6 +1,8 @@
-# loanservicesllc.com
+# loanservicesllc-com
 
-Static site for loanservicesllc.com.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: loanservicesllc-com
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `loanservicesllc-com`
