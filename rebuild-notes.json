@@ -1,0 +1,12 @@
+{
+  "domain": "loanservicesllc.com",
+  "rebuiltAt": "2026-07-06T12:37:24.394Z",
+  "archiveSource": "https://web.archive.org/web/20240611062805/http://loanservicesllc.com/",
+  "archiveUse": "Authorized client-owned recovery. Recovered brand, Palm Beach focus, services, contact email and map context. Spam/payday archive URL redirected and not reused.",
+  "author": "Marta Leiva",
+  "manualReview": [
+    "Confirm final phone number if any.",
+    "Review legal/compliance disclosures before production custom-domain launch.",
+    "Replace mailto form with final CRM endpoint if available."
+  ]
+}
