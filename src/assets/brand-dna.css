@@ -6,8 +6,8 @@
   --dna-line:#ded8ca;
   --dna-radius:6px;
   --dna-shadow:0 16px 34px rgba(32,32,28,.10);
-  --dna-heading:Georgia, "Times New Roman", serif;
-  --dna-font:"Trebuchet MS", Arial, sans-serif;
+  --dna-heading:Arial, Helvetica, sans-serif;
+  --dna-font:Segoe UI, Arial, sans-serif;
 }
 body{
   font-family:var(--dna-font);
