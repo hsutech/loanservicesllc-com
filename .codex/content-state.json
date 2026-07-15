@@ -11,7 +11,7 @@
       "slug": "best-personal-loans-palm-beach-county",
       "title": "Best Personal Loans in Palm Beach County: 7 Options to Compare First",
       "url": "https://loanservicesllc.com/blog/best-personal-loans-palm-beach-county/",
-      "status": "draft_pending_push_verification",
+      "status": "published",
       "serp_observations": {
         "intent": "Commercial BOFU comparison. Results favor lender roundups, credit union pages, lender reviews and local/regional eligibility pages.",
         "page_types": [
@@ -52,7 +52,19 @@
         "https://loanservicesllc.com/apply/"
       ],
       "featured_image": "/assets/blog/palm-beach-personal-loan-options.jpg",
-      "notes": "No YouTube embed used because the SERP and topic did not require video to satisfy intent."
+      "notes": "No YouTube embed used because the SERP and topic did not require video to satisfy intent.",
+      "article_commit_sha": "5a4b43a",
+      "verified_at": "2026-07-15T11:02:31Z",
+      "verification": {
+        "url_http_status": 200,
+        "h1": "Best Personal Loans in Palm Beach County: 7 Options to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-personal-loans-palm-beach-county/",
+        "image_status": 200,
+        "blog_index": true,
+        "sitemap": true,
+        "desktop_render": "passed at 1440x1100",
+        "mobile_render": "passed at 390x900"
+      }
     }
   ]
 }
