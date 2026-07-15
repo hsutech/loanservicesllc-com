@@ -1,0 +1,58 @@
+{
+  "domain": "loanservicesllc.com",
+  "company": "Loan Services LLC",
+  "market": "Palm Beach County, Florida, USA",
+  "language": "English",
+  "runs": [
+    {
+      "run_date": "2026-07-15",
+      "keyword": "best personal loans in Palm Beach County",
+      "priority": "Alta",
+      "slug": "best-personal-loans-palm-beach-county",
+      "title": "Best Personal Loans in Palm Beach County: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-personal-loans-palm-beach-county/",
+      "status": "draft_pending_push_verification",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Results favor lender roundups, credit union pages, lender reviews and local/regional eligibility pages.",
+        "page_types": [
+          "National best-personal-loan listicles",
+          "Credit union personal loan product pages",
+          "Lender reviews",
+          "Debt consolidation and no-fee personal loan roundups"
+        ],
+        "structure": "Top results commonly use a ranked list, comparison criteria, pros/cons, eligibility notes, FAQ and methodology. Local gaps include Palm Beach County context, local credit union membership notes and practical payment-fit screening.",
+        "content_decision": "Publish a 7-option BOFU comparison that ranks by borrower fit instead of making unsupported lender superiority claims."
+      },
+      "sources": [
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/personal-loans/best-personal-loans",
+          "used_for": "SERP and national listicle benchmark"
+        },
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/personal-loans/best-credit-union-personal-loans",
+          "used_for": "SERP credit union comparison benchmark"
+        },
+        {
+          "url": "https://www.sccu.com/personal/personal-loans",
+          "used_for": "Regional credit union product and membership facts"
+        },
+        {
+          "url": "https://www.penfed.org/personal-loans",
+          "used_for": "National credit union product feature benchmark"
+        },
+        {
+          "url": "https://www.investopedia.com/what-is-a-good-apr-for-a-personal-loan-8697752",
+          "used_for": "APR comparison explanation"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/services/personal/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/what-lenders-check-first/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/palm-beach-personal-loan-options.jpg",
+      "notes": "No YouTube embed used because the SERP and topic did not require video to satisfy intent."
+    }
+  ]
+}
