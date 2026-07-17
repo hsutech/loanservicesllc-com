@@ -65,6 +65,85 @@
         "desktop_render": "passed at 1440x1100",
         "mobile_render": "passed at 390x900"
       }
+    },
+    {
+      "run_date": "2026-07-17",
+      "keyword": "best business loans in Palm Beach County",
+      "priority": "Alta",
+      "slug": "best-business-loans-palm-beach-county",
+      "title": "Best Business Loans in Palm Beach County: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-business-loans-palm-beach-county/",
+      "status": "published",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current Google US/South Florida results mix national best-small-business-loan rankings, business line of credit roundups, SBA resources and local Palm Beach County funding resources.",
+        "page_types": [
+          "National best-small-business-loan listicles",
+          "Business line of credit lender comparisons",
+          "Official SBA 7(a), 504 and microloan pages",
+          "Palm Beach County business loan program page",
+          "Community lender pages serving Palm Beach County"
+        ],
+        "structure": "Top comparison pages use ranked/provider lists, eligibility notes, loan type categories, methodology, authorship/editorial review and FAQs. Official pages emphasize program eligibility, uses, limits and borrower warnings. Local gap is translating national loan categories into Palm Beach County use cases and documentation readiness.",
+        "content_decision": "Publish a 7-option BOFU comparison by financing fit: SBA 7(a), SBA 504, local bank/credit union loan, business line of credit, equipment financing, Palm Beach County/community programs and online lender benchmarks."
+      },
+      "sources": [
+        {
+          "url": "https://www.sba.gov/funding-programs/loans/7a-loans",
+          "used_for": "SBA 7(a) uses, max loan amount and borrower/lender relationship"
+        },
+        {
+          "url": "https://www.sba.gov/funding-programs/loans/504-loans",
+          "used_for": "SBA 504 fixed-asset financing description and max loan amount"
+        },
+        {
+          "url": "https://discover.pbcgov.org/HED/Pages/Palm-Beach-County-Business-Loan-Program.aspx",
+          "used_for": "Local Palm Beach County business loan program eligibility and uses"
+        },
+        {
+          "url": "https://www.sba.gov/funding-programs/loans/microloans",
+          "used_for": "SBA microloan loan limit and eligible/ineligible uses"
+        },
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/business-loans/best-small-business-loans",
+          "used_for": "SERP benchmark for national BOFU small-business-loan comparison structure"
+        },
+        {
+          "url": "https://www.lendingtree.com/business/line-of-credit/",
+          "used_for": "SERP benchmark for business line of credit intent and structure"
+        },
+        {
+          "url": "https://www.bankrate.com/loans/small-business/business-line-of-credit/",
+          "used_for": "SERP benchmark for lender comparison criteria and editorial review signals"
+        },
+        {
+          "url": "https://www.nerdwallet.com/business/loans/best",
+          "used_for": "SERP benchmark for national small-business-loan comparison coverage"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/working-capital-memo/",
+        "https://loanservicesllc.com/blog/what-lenders-check-first/",
+        "https://loanservicesllc.com/services/business/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/palm-beach-business-loan-options.jpg",
+      "notes": "No YouTube embed used because the SERP and topic were better served by comparison tables, official loan program sources and local documentation guidance. Featured image is an original optimized business-loan desk visual with descriptive alt text.",
+      "article_commit_sha": "020ed7c",
+      "verified_at": "2026-07-17T10:55:30Z",
+      "verification": {
+        "url_http_status": 200,
+        "h1": "Best Business Loans in Palm Beach County: 7 Options to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-business-loans-palm-beach-county/",
+        "image_status": 200,
+        "image_content": "JPEG 1672x941",
+        "blog_index": true,
+        "sitemap": true,
+        "local_desktop_render": "passed at 1440x1100",
+        "local_mobile_render": "passed at 390x900",
+        "live_desktop_render": "passed at 1440x1100",
+        "live_mobile_render": "passed at 390x900",
+        "horizontal_overflow": false
+      }
     }
   ]
 }
