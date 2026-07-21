@@ -144,6 +144,83 @@
         "live_mobile_render": "passed at 390x900",
         "horizontal_overflow": false
       }
+    },
+    {
+      "run_date": "2026-07-21",
+      "keyword": "best auto loan options in Florida",
+      "priority": "Alta",
+      "slug": "best-auto-loan-options-florida",
+      "title": "Best Auto Loan Options in Florida: 7 Routes to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-auto-loan-options-florida/",
+      "status": "pushed_unverified",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current July 2026 Google US/South Florida-style results favor national auto-loan and rate roundups, refinance rankings, lender marketplaces, credit union pages, and dealer/direct financing explainers.",
+        "page_types": [
+          "Best auto loan and best auto loan rate listicles",
+          "Auto refinance comparison pages",
+          "Dealer-arranged versus direct-financing explainers",
+          "Credit union and bank auto-loan pages",
+          "Official consumer-protection and Florida vehicle-insurance resources"
+        ],
+        "structure": "Top pages commonly use ranked lender tables, author/editor/reviewer bylines, recent update dates, APR ranges or starting rates, methodology notes, calculators, FAQs, pros/cons, and warnings about long terms, add-ons, bad-credit pricing and total cost. Official consumer pages emphasize dealer-arranged versus direct lending, out-the-door price, written disclosures and rate-shopping windows. Local gap is Florida-specific payment fit: insurance, registration, dealer fees, private-party title handling and finance-office pressure.",
+        "content_decision": "Publish a 7-route BOFU comparison by borrower fit: credit union preapproval, bank/online direct loan, dealer-arranged financing, manufacturer incentives, private-party/used-car financing, refinance and lease buyout. Avoid fabricated lender rankings, prices or reviews; use current SERP patterns for structure and official sources for claims."
+      },
+      "sources": [
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-dealer-arranged-and-bank-financing-en-759/",
+          "used_for": "Direct lending versus dealer-arranged financing explanation"
+        },
+        {
+          "url": "https://consumer.ftc.gov/articles/financing-or-leasing-car",
+          "used_for": "Consumer guidance on out-the-door price, financing comparison and add-ons"
+        },
+        {
+          "url": "https://www.flhsmv.gov/insurance/",
+          "used_for": "Florida vehicle insurance requirement before registration"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/how-will-shopping-for-an-auto-loan-affect-my-credit-en-763/",
+          "used_for": "Auto loan rate-shopping credit inquiry guidance"
+        },
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/auto-loans/best-auto-loan-rates",
+          "used_for": "Current July 2026 SERP benchmark for BOFU lender roundup structure, categories and methodology signals"
+        },
+        {
+          "url": "https://www.lendingtree.com/auto/",
+          "used_for": "Current July 2026 SERP benchmark for rate-table, calculator, lender comparison and FAQ coverage"
+        },
+        {
+          "url": "https://www.bankrate.com/loans/auto-loans/rates/",
+          "used_for": "Current July 2026 SERP benchmark for authored/edited rate comparison page structure"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/auto-loan-documents/",
+        "https://loanservicesllc.com/services/auto/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-auto-loan-options.jpg",
+      "notes": "Article reconciled from previous pushed_unverified state and updated for July 21, 2026 publication. No YouTube embed used because the SERP and topic are better served by comparison tables, consumer-protection sources and Florida vehicle-insurance source material. Featured image is an original optimized auto-loan desk visual with descriptive alt text.",
+      "article_commit_sha": null,
+      "verified_at": null,
+      "verification": {
+        "local_article_checks": "passed: 2231 words, one H1, canonical and Open Graph image present, 4 external links, 4 unique editorial internal body links, FAQ/Article schema present, no placeholder text, no unsupported promotional claims",
+        "build": "passed: npm run build, Eleventy copied 19 assets and wrote 34 files",
+        "url_http_status": null,
+        "h1": "Best Auto Loan Options in Florida: 7 Routes to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-auto-loan-options-florida/",
+        "image_status": null,
+        "blog_index": "prepared locally",
+        "sitemap": "prepared locally",
+        "live_desktop_render": "pending live verification",
+        "live_mobile_render": "pending live verification",
+        "pushed": false,
+        "deployment": "pending push and Cloudflare verification",
+        "local_desktop_render": "passed at 1440x1100: H1/canonical/image OK, no horizontal overflow",
+        "local_mobile_render": "passed at 390x900: H1/image OK, no horizontal overflow"
+      }
     }
   ]
 }
