@@ -152,7 +152,7 @@
       "slug": "best-auto-loan-options-florida",
       "title": "Best Auto Loan Options in Florida: 7 Routes to Compare First",
       "url": "https://loanservicesllc.com/blog/best-auto-loan-options-florida/",
-      "status": "pushed_unverified",
+      "status": "published",
       "serp_observations": {
         "intent": "Commercial BOFU comparison. Current July 2026 Google US/South Florida-style results favor national auto-loan and rate roundups, refinance rankings, lender marketplaces, credit union pages, and dealer/direct financing explainers.",
         "page_types": [
@@ -203,23 +203,24 @@
       ],
       "featured_image": "/assets/blog/florida-auto-loan-options.jpg",
       "notes": "Article reconciled from previous pushed_unverified state and updated for July 21, 2026 publication. No YouTube embed used because the SERP and topic are better served by comparison tables, consumer-protection sources and Florida vehicle-insurance source material. Featured image is an original optimized auto-loan desk visual with descriptive alt text.",
-      "article_commit_sha": null,
-      "verified_at": null,
+      "article_commit_sha": "284b5a0",
+      "verified_at": "2026-07-21T10:56:06Z",
       "verification": {
         "local_article_checks": "passed: 2231 words, one H1, canonical and Open Graph image present, 4 external links, 4 unique editorial internal body links, FAQ/Article schema present, no placeholder text, no unsupported promotional claims",
         "build": "passed: npm run build, Eleventy copied 19 assets and wrote 34 files",
-        "url_http_status": null,
+        "url_http_status": 200,
         "h1": "Best Auto Loan Options in Florida: 7 Routes to Compare First",
         "canonical": "https://loanservicesllc.com/blog/best-auto-loan-options-florida/",
-        "image_status": null,
-        "blog_index": "prepared locally",
-        "sitemap": "prepared locally",
-        "live_desktop_render": "pending live verification",
-        "live_mobile_render": "pending live verification",
-        "pushed": false,
-        "deployment": "pending push and Cloudflare verification",
+        "image_status": 200,
+        "blog_index": true,
+        "sitemap": true,
+        "live_desktop_render": "passed at 1440x1100: H1/canonical/image OK, no horizontal overflow",
+        "live_mobile_render": "passed at 390x900: H1/image OK, no horizontal overflow",
+        "pushed": true,
+        "deployment": "verified on second live attempt after Cloudflare propagation",
         "local_desktop_render": "passed at 1440x1100: H1/canonical/image OK, no horizontal overflow",
-        "local_mobile_render": "passed at 390x900: H1/image OK, no horizontal overflow"
+        "local_mobile_render": "passed at 390x900: H1/image OK, no horizontal overflow",
+        "image_content": "JPEG 1600x900, 223390 bytes"
       }
     }
   ]
