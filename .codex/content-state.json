@@ -222,6 +222,88 @@
         "local_mobile_render": "passed at 390x900: H1/image OK, no horizontal overflow",
         "image_content": "JPEG 1600x900, 223390 bytes"
       }
+    },
+    {
+      "run_date": "2026-07-22",
+      "keyword": "best home improvement loans in Florida",
+      "priority": "Alta",
+      "slug": "best-home-improvement-loans-florida",
+      "title": "Best Home Improvement Loans in Florida: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-home-improvement-loans-florida/",
+      "status": "pushed_unverified",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current Google US/South Florida-style results favor national home-improvement personal-loan rankings, lender marketplaces, home equity explainers, Florida PACE pages and official renovation/mitigation program resources.",
+        "page_types": [
+          "National best-home-improvement-loan listicles",
+          "Marketplace and lender comparison pages",
+          "Home equity loan and HELOC explainers",
+          "FHA 203(k) official resource pages",
+          "Florida PACE and hurricane-mitigation program pages"
+        ],
+        "structure": "Top pages commonly use ranked tables, author/editor bylines, update dates, calculators or quote widgets, APR/loan amount ranges, pros and cons, methodology, alternatives, FAQs and warnings about secured debt. Local Florida gaps include PACE availability by county/city, hurricane mitigation, insurance-driven projects, contractor draws, permits and property-tax assessment impact.",
+        "content_decision": "Publish a 7-option BOFU comparison by financing route rather than unsupported lender rankings: unsecured personal loan, home equity loan, HELOC, cash-out refinance, FHA 203(k), PACE and grants/mitigation programs. Use official sources for secured-debt, HUD, PACE and Florida statutory claims."
+      },
+      "sources": [
+        {
+          "url": "https://www.topconsumerreviews.com/best-home-improvement-loans/states/florida.php",
+          "used_for": "Current Florida SERP benchmark for local-state home improvement loan listicle structure and lender/category coverage"
+        },
+        {
+          "url": "https://www.nerdwallet.com/personal-loans/best/home-improvement-loans",
+          "used_for": "Current SERP benchmark for authored home-improvement loan comparison structure, calculators and alternatives"
+        },
+        {
+          "url": "https://www.forbes.com/advisor/personal-loans/best-home-improvement-loans/",
+          "used_for": "Current SERP benchmark for methodology, TOC, lender comparison and alternatives coverage"
+        },
+        {
+          "url": "https://www.credible.com/personal-loan/home-improvement-loans",
+          "used_for": "Current SERP benchmark for marketplace loan comparison and borrower-fit categories"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-home-equity-loan-and-a-home-equity-line-of-credit-heloc-en-247/",
+          "used_for": "Home equity loan versus HELOC explanation and risk framing"
+        },
+        {
+          "url": "https://www.hud.gov/hud-partners/single-family-mortgage-programs-203k",
+          "used_for": "FHA 203(k) program purpose, Standard/Limited categories and escrow structure"
+        },
+        {
+          "url": "https://floridapace.gov/home-improvement/",
+          "used_for": "Florida PACE eligible project categories and county/city availability note"
+        },
+        {
+          "url": "https://www.flsenate.gov/Laws/Statutes/2025/215.5586",
+          "used_for": "My Safe Florida Home statutory basis, inspections/grants and appropriation caveat"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/services/property/",
+        "https://loanservicesllc.com/blog/two-years-tax-returns/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-home-improvement-loan-options.jpg",
+      "notes": "No YouTube embed used because current SERP intent is satisfied by comparison tables, official financing/program sources and Florida-specific project-selection guidance. Featured image is an original optimized home-improvement financing desk visual with descriptive alt text.",
+      "article_commit_sha": null,
+      "verified_at": null,
+      "verification": {
+        "local_article_checks": "passed: 2400 words, one H1, canonical and Open Graph image present, 4 external editorial links, 4 unique editorial internal body links, FAQ/Article schema present, no placeholder text, no unsupported promotional claims",
+        "build": "passed: npm run build, Eleventy copied 20 assets and wrote 35 files",
+        "url_http_status": null,
+        "h1": "Best Home Improvement Loans in Florida: 7 Options to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-home-improvement-loans-florida/",
+        "image_status": null,
+        "blog_index": "prepared locally",
+        "sitemap": "prepared locally",
+        "live_desktop_render": "pending live verification",
+        "live_mobile_render": "pending live verification",
+        "pushed": false,
+        "deployment": "pending push and Cloudflare verification",
+        "local_desktop_render": "passed at 1440x1100: H1/canonical/image OK, no horizontal overflow",
+        "local_mobile_render": "passed at 390x900: H1/image OK, no horizontal overflow",
+        "image_content": "JPEG 1600x900, 204268 bytes"
+      }
     }
   ]
 }
