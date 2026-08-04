@@ -305,6 +305,85 @@
         "image_content": "JPEG 1600x900, 204268 bytes",
         "final_url": "https://loanservicesllc.com/blog/best-home-improvement-loans-florida/"
       }
+    },
+    {
+      "run_date": "2026-08-04",
+      "keyword": "best wedding loan alternatives",
+      "priority": "Alta",
+      "slug": "best-wedding-loan-alternatives",
+      "title": "Best Wedding Loan Alternatives: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-wedding-loan-alternatives/",
+      "status": "pushed_unverified",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current Google US/South Florida results favor wedding-loan lender roundups, personal-loan marketplace pages and financing explainers with alternatives.",
+        "page_types": [
+          "Best wedding loan lender listicles",
+          "Wedding loan explainers with calculators",
+          "Personal loan marketplace pages",
+          "Credit card and home equity alternative sections",
+          "Consumer-protection guidance for credit and secured borrowing"
+        ],
+        "structure": "Top results commonly use ranked lender cards, TOCs, author/editor bylines, recent update dates, APR/loan amount ranges, calculators, pros and cons, methodology, alternatives and FAQs. Multimedia is limited; intent is better served by comparison tables and risk framing than by video.",
+        "content_decision": "Publish a 7-option BOFU alternatives comparison before lender selection: cash savings, smaller scope, vendor payment plans, 0% APR cards, fixed-rate personal loans, documented family help and home equity only as a high-risk final comparison."
+      },
+      "sources": [
+        {
+          "url": "https://www.nerdwallet.com/personal-loans/best/wedding-loans",
+          "used_for": "Current 2026 SERP benchmark for wedding-loan roundup structure, author/editor signals, calculators, APR ranges and FAQs"
+        },
+        {
+          "url": "https://www.forbes.com/advisor/personal-loans/best-wedding-loans/",
+          "used_for": "Current 2026 SERP benchmark for lender methodology, TOC, comparison categories and editorial review signals"
+        },
+        {
+          "url": "https://www.lendingtree.com/personal/wedding/",
+          "used_for": "Current 2026 SERP benchmark and article source for wedding loan versus 0% APR card comparison"
+        },
+        {
+          "url": "https://www.bankrate.com/loans/personal-loans/wedding-loan/",
+          "used_for": "Current SERP benchmark for wedding loan alternatives, home equity caution and financing structure"
+        },
+        {
+          "url": "https://www.theknot.com/content/average-wedding-cost",
+          "used_for": "2026 Real Weddings Study average U.S. and Florida wedding cost context"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/",
+          "used_for": "CFPB mortgage/home-equity offer comparison criteria"
+        },
+        {
+          "url": "https://consumer.ftc.gov/consumer-alerts/2026/04/say-no-thanks-unexpected-offers-lower-your-credit-card-interest-rate",
+          "used_for": "FTC warning on unexpected lower-rate offers and debt relief upfront fees"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/wedding-financing/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/services/wedding/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/wedding-loan-alternatives.jpg",
+      "notes": "No YouTube embed used because current SERP intent is satisfied by comparison table, official/financial sources and practical risk framing. Featured image is an original optimized wedding-budget visual with descriptive alt text.",
+      "article_commit_sha": null,
+      "verified_at": null,
+      "verification": {
+        "local_article_checks": "passed: 2390 words, one H1, canonical and Open Graph image present, 4 external links, 4+ real internal links, FAQ/Article schema present, no placeholder text, no unsupported approval/rate claims",
+        "build": "passed: npm run build, Eleventy copied 21 assets and wrote 36 files",
+        "url_http_status": null,
+        "h1": "Best Wedding Loan Alternatives: 7 Options to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-wedding-loan-alternatives/",
+        "image_status": null,
+        "blog_index": true,
+        "sitemap": true,
+        "live_desktop_render": "pending live verification",
+        "live_mobile_render": "pending live verification",
+        "local_desktop_render": "alternative static QA passed: generated dist HTML has expected H1/canonical/image reference; Playwright browser binary unavailable",
+        "local_mobile_render": "alternative static QA passed: generated dist HTML has responsive viewport and no fixed-width overflow indicators found; Playwright browser binary unavailable",
+        "pushed": false,
+        "deployment": "pending push and Cloudflare verification",
+        "image_content": "JPEG 1600x900, 280707 bytes",
+        "final_url": "https://loanservicesllc.com/blog/best-wedding-loan-alternatives/"
+      }
     }
   ]
 }
