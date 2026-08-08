@@ -384,6 +384,84 @@
         "image_content": "JPEG 1600x900, 280707 bytes",
         "final_url": "https://loanservicesllc.com/blog/best-wedding-loan-alternatives/"
       }
+    },
+    {
+      "run_date": "2026-08-08",
+      "keyword": "best emergency loans in Lake Worth Beach",
+      "priority": "Alta",
+      "slug": "best-emergency-loans-lake-worth-beach",
+      "title": "Best Emergency Loans in Lake Worth Beach: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-emergency-loans-lake-worth-beach/",
+      "status": "published",
+      "serp_observations": {
+        "intent": "Commercial BOFU emergency-funding comparison. Current US/Florida results emphasize fast personal-loan lender roundups, bad-credit emergency loan lists, Florida bad-credit loan comparisons and official payday/PAL risk guidance.",
+        "page_types": [
+          "National best-personal-loan and emergency-loan listicles",
+          "Bad-credit emergency loan comparisons with lender tables",
+          "Florida bad-credit loan roundups",
+          "Official CFPB, MyCreditUnion.gov and Florida OFR consumer resources"
+        ],
+        "structure": "Top relevant results use TOCs, ranked/comparison tables, author/editor/review signals, update dates, lender eligibility/funding-speed details, alternatives, methodology and FAQs. Official pages cover payday-loan cost, repayment risk, PAL alternatives and Florida deferred-presentment rules. Local gap is Lake Worth Beach payment-fit framing, documentation readiness and safer alternatives before last-resort payday borrowing.",
+        "content_decision": "Publish a 7-option BOFU comparison by route rather than unsupported lender ranking: payment plans, local bank/credit union small-dollar loans, online fixed-rate personal loan prequalification, PALs, secured loans, credit-card/cash advances and Florida-regulated payday loans as last resort. No YouTube embed because search intent is better served by tables, official sources and risk framing."
+      },
+      "sources": [
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/personal-loans/best-personal-loans",
+          "used_for": "Current August 2026 SERP benchmark for personal-loan roundup structure and funding-speed comparison"
+        },
+        {
+          "url": "https://www.nerdwallet.com/personal-loans/best/emergency-loans",
+          "used_for": "Current SERP benchmark and article source for emergency-loan comparison framing"
+        },
+        {
+          "url": "https://www.forbes.com/advisor/personal-loans/best-emergency-loans-for-bad-credit/",
+          "used_for": "Current SERP benchmark for bad-credit emergency-loan listicle structure, TOC and methodology signals"
+        },
+        {
+          "url": "https://www.lendingtree.com/personal/loans-for-bad-credit-florida/",
+          "used_for": "Current Florida SERP benchmark for Florida-specific bad-credit loan availability, alternatives and borrower-protection coverage"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/should-i-get-a-payday-loan-if-i-need-money-now-en-1583/",
+          "used_for": "Official CFPB payday-loan cost, repayment and alternatives guidance"
+        },
+        {
+          "url": "https://mycreditunion.gov/manage-your-money/consumer-loans-credit-cards/payday-alternative-loans",
+          "used_for": "Official credit-union Payday Alternative Loan explanation"
+        },
+        {
+          "url": "https://www.flofr.gov/education/consumer-resources/lists/consumer-resources/payday-lenders-%28deferred-presentment-providers%29",
+          "used_for": "Florida OFR deferred-presentment provider rules and consumer protections"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/how-to-prepare-a-loan-request/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/what-lenders-check-first/",
+        "https://loanservicesllc.com/services/personal/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/lake-worth-beach-emergency-loan-options.jpg",
+      "notes": "Reconciled from previous blocked_local_build_not_pushed local preparation. Publication date updated to August 8, 2026. Featured image is the previously prepared original optimized JPEG, 1672x941, with descriptive alt text. No YouTube embed used because it would not materially improve this SERP intent.",
+      "article_commit_sha": "4057ff6b99e8157a316968c2375ebd91b5cda6b2",
+      "verified_at": "2026-08-08T10:58:03Z",
+      "verification": {
+        "local_article_checks": "passed: 2067 words, one H1, canonical and Open Graph image present, Article/FAQ schema present, 4 content external links, 5 real editorial internal links, no placeholder text, publication date updated to August 8, 2026",
+        "build": "passed: npm run build, Eleventy copied 22 assets and wrote 37 files",
+        "url_http_status": 200,
+        "h1": "Best Emergency Loans in Lake Worth Beach: 7 Options to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-emergency-loans-lake-worth-beach/",
+        "image_status": 200,
+        "image_content": "JPEG 1672x941, 263484 bytes",
+        "blog_index": true,
+        "sitemap": true,
+        "live_desktop_render": "HTML/render surrogate passed: expected H1/canonical/OG image present on final custom-domain URL; Playwright Chromium binary unavailable for screenshot",
+        "live_mobile_render": "HTML/render surrogate passed: responsive viewport metadata present and no fixed-width overflow indicators found; Playwright Chromium binary unavailable for screenshot",
+        "local_desktop_render": "static dist QA passed; local server started but Playwright Chromium binary unavailable for screenshot",
+        "local_mobile_render": "static dist QA passed; responsive viewport metadata present and no fixed-width overflow indicators found",
+        "pushed": true,
+        "deployment": "verified on third live attempt; second attempt passed with cache-buster, third final canonical URL passed without cache-buster"
+      }
     }
   ]
 }
