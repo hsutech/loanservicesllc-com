@@ -462,6 +462,73 @@
         "pushed": true,
         "deployment": "verified on third live attempt; second attempt passed with cache-buster, third final canonical URL passed without cache-buster"
       }
+    },
+    {
+      "run_date": "2026-08-09",
+      "keyword": "best small business financing in South Florida",
+      "priority": "Alta",
+      "slug": "best-small-business-financing-south-florida",
+      "title": "Best Small Business Financing in South Florida: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-small-business-financing-south-florida/",
+      "status": "prepared_pending_live_verification",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current Google US/South Florida results mix national best-small-business-loan listicles, Florida small-business loan guides, local economic-development resource pages, SBA program pages, credit union pages and fast-funding providers.",
+        "page_types": [
+          "National small-business-loan rankings with lender tables and methodology",
+          "Florida-specific business loan guides with bank, credit union, online lender and CDFI sections",
+          "Official SBA 7(a), 504 and microloan program pages",
+          "Palm Beach and Broward economic-development resource pages",
+          "Regional bank, credit union and financing broker pages serving South Florida"
+        ],
+        "structure": "Top results commonly use comparison tables, author/editor signals, update dates, lender categories, eligibility summaries, FAQs, calculators or quote widgets, and methodology notes. Official/local pages focus on program uses, eligibility, intermediary lenders and application resources. The gap is a South Florida route-based comparison that separates bank/SBA/community/line/equipment/revenue-based financing by use of funds and payment rhythm.",
+        "content_decision": "Publish a 7-option BOFU comparison for South Florida small business financing. Differentiate from the existing Palm Beach County business-loan guide by broadening to Palm Beach, Broward and Miami-Dade financing routes, local documentation factors and fast-funding benchmark risks."
+      },
+      "sources": [
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/business-loans/best-small-business-loans",
+          "used_for": "Current August 2026 SERP benchmark for national small-business-loan listicle structure, categories, methodology and BOFU coverage"
+        },
+        {
+          "url": "https://www.finder.com/business-loans/business-loans-florida",
+          "used_for": "Florida-specific SERP benchmark for business loan categories, eligibility sections, TOC and state resources"
+        },
+        {
+          "url": "https://www.business.org/finance/loans/best-florida-small-business-loans-and-financing/",
+          "used_for": "Florida SERP benchmark for lender/category comparison and regional lender coverage"
+        },
+        {
+          "url": "https://www.sba.gov/loans/7a-loans/",
+          "used_for": "SBA 7(a) uses, maximum amount, eligibility and lender application facts"
+        },
+        {
+          "url": "https://www.sba.gov/loans/504-loans/",
+          "used_for": "SBA 504 fixed-asset financing uses, limits and exclusions"
+        },
+        {
+          "url": "https://discover.pbcgov.org/HED/Pages/Palm-Beach-County-Business-Loan-Program.aspx",
+          "used_for": "Palm Beach County local business loan program uses, gap-financing and eligibility context"
+        },
+        {
+          "url": "https://www.broward.org/EconDev/Pages/BrowardCountySmallBusinessAssistanceGuide.aspx",
+          "used_for": "South Florida CDFI, CDC and local lending organization context"
+        },
+        {
+          "url": "https://www.ithinkfi.org/business/loans/small-business-administration-loans",
+          "used_for": "Regional credit union SBA lending page benchmark with South Florida lender contact signals"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/working-capital-memo/",
+        "https://loanservicesllc.com/blog/small-business-loan-red-flags-before-signing/",
+        "https://loanservicesllc.com/blog/best-business-loans-palm-beach-county/",
+        "https://loanservicesllc.com/services/business/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/south-florida-small-business-financing-options.jpg",
+      "notes": "No YouTube embed used because the SERP intent is better satisfied by comparison tables, official/local program sources and document-readiness guidance. Featured image generated with the built-in imagegen tool and optimized to JPEG.",
+      "article_commit_sha": null,
+      "verified_at": null,
+      "verification": {}
     }
   ]
 }
