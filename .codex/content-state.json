@@ -470,7 +470,7 @@
       "slug": "best-small-business-financing-south-florida",
       "title": "Best Small Business Financing in South Florida: 7 Options to Compare First",
       "url": "https://loanservicesllc.com/blog/best-small-business-financing-south-florida/",
-      "status": "prepared_pending_live_verification",
+      "status": "published",
       "serp_observations": {
         "intent": "Commercial BOFU comparison. Current Google US/South Florida results mix national best-small-business-loan listicles, Florida small-business loan guides, local economic-development resource pages, SBA program pages, credit union pages and fast-funding providers.",
         "page_types": [
@@ -526,9 +526,23 @@
       ],
       "featured_image": "/assets/blog/south-florida-small-business-financing-options.jpg",
       "notes": "No YouTube embed used because the SERP intent is better satisfied by comparison tables, official/local program sources and document-readiness guidance. Featured image generated with the built-in imagegen tool and optimized to JPEG.",
-      "article_commit_sha": null,
-      "verified_at": null,
-      "verification": {}
+      "article_commit_sha": "0fead8d",
+      "verified_at": "2026-08-09T11:03:54Z",
+      "verification": {
+        "local_article_checks": "passed: 2277 article-body words, one H1, canonical and Open Graph image present, 4 external editorial links, 5 real internal body links, FAQ/Article schema present, no placeholder text, no unsupported promotional claims",
+        "build": "passed: npm run build, Eleventy copied 24 assets and wrote 38 files",
+        "url_http_status": 200,
+        "h1": "Best Small Business Financing in South Florida: 7 Options to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-small-business-financing-south-florida/",
+        "image_status": 200,
+        "image_content": "JPEG 1672x941, 288 KB local optimized asset; live image returned HTTP 200",
+        "blog_index": true,
+        "sitemap": true,
+        "live_desktop_render": "passed in Codex in-app browser: H1/canonical/image OK, no horizontal overflow",
+        "live_mobile_render": "passed at 390x900 in Codex in-app browser: H1/canonical/image OK, no horizontal overflow",
+        "pushed": true,
+        "deployment": "verified on second live attempt with cache-buster and third final canonical URL attempt without cache-buster"
+      }
     }
   ]
 }
