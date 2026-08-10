@@ -543,6 +543,80 @@
         "pushed": true,
         "deployment": "verified on second live attempt with cache-buster and third final canonical URL attempt without cache-buster"
       }
+    },
+    {
+      "run_date": "2026-08-10",
+      "keyword": "best education loan alternatives in Florida",
+      "priority": "Alta",
+      "slug": "best-education-loan-alternatives-florida",
+      "title": "Best Education Loan Alternatives in Florida: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-education-loan-alternatives-florida/",
+      "status": "local_verified_pending_live",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current Google US/South Florida results mix private student loan rankings, federal-versus-private guidance, Florida aid resources, university alternative-loan pages, payment-plan explainers and 529/prepaid savings resources.",
+        "page_types": [
+          "Private student loan lender rankings",
+          "Federal aid and FAFSA official guidance",
+          "Consumer guidance on paying for college",
+          "Florida state aid and savings pages",
+          "University alternative/private loan pages"
+        ],
+        "structure": "Top comparison pages use lender tables, author/editor signals, update dates, APR and repayment criteria, FAQs and methodology. Official resources emphasize FAFSA, grants, federal-first sequencing, school payment plans, 529 savings, work-study and private-loan cautions. Local gap is a Florida-first route comparison before a family accepts a private education loan.",
+        "content_decision": "Publish a 7-option BOFU alternatives guide that treats private education loans as the final gap-funding benchmark after aid, payment timing, savings and federal options are compared."
+      },
+      "sources": [
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/student-loans/best-private-student-loans",
+          "used_for": "Current August 2026 SERP benchmark for private student loan rankings, structure and lender-comparison intent"
+        },
+        {
+          "url": "https://www.nerdwallet.com/student-loans/best/private-student-loans",
+          "used_for": "Current SERP benchmark for private student loan comparison criteria, author/editor signals and methodology"
+        },
+        {
+          "url": "https://studentaid.gov/articles/fafsa-student-steps/",
+          "used_for": "Official FAFSA and federal student aid process context"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-are-the-different-ways-to-pay-for-college-or-graduate-school-en-545/",
+          "used_for": "Official consumer guidance on grants, scholarships, payment plans, work-study, ISAs and private-loan sequencing"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/should-i-choose-federal-student-loans-or-private-student-loans-en-567/",
+          "used_for": "Official federal-versus-private student loan comparison and federal-first guidance"
+        },
+        {
+          "url": "https://www.floridashines.org/financial-aid",
+          "used_for": "Florida aid program and Bright Futures context"
+        },
+        {
+          "url": "https://www.floridashines.org/savings-and-prepaid-plans",
+          "used_for": "Florida 529 and Florida Prepaid savings context"
+        },
+        {
+          "url": "https://www.sfa.ufl.edu/types-of-aid/loans/alternative-loans/",
+          "used_for": "Florida university alternative/private loan guidance and lender-comparison checklist"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/services/education/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/how-to-prepare-a-loan-request/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-education-loan-alternatives.jpg",
+      "notes": "No YouTube embed used because SERP intent is better satisfied by comparison tables, official student-aid sources and repayment-risk guidance. Featured image generated with built-in imagegen and optimized to JPEG.",
+      "verification": {
+        "local_article_checks": "passed: 2308 article-body words, one H1, canonical and Open Graph image present, 4 external editorial links, 4 real editorial internal links plus navigation, FAQ/Article schema valid, no placeholder text, no unsupported promotional claims",
+        "build": "passed: npm run build, Eleventy copied 24 assets and wrote 39 files",
+        "image_content": "JPEG 1672x940, 220215 bytes",
+        "blog_index_source": true,
+        "sitemap_source": true,
+        "local_desktop_render": "passed at 1440x1100 in Chrome headless: H1/canonical/image OK, no horizontal overflow",
+        "local_mobile_render": "passed at 390x900 in Chrome headless: H1/canonical/image OK, no horizontal overflow",
+        "pushed": false,
+        "deployment": "not attempted yet"
+      }
     }
   ]
 }
