@@ -625,6 +625,65 @@
       },
       "article_commit_sha": "44401e44b1d18f0baf453b51bbef3de621228689",
       "verified_at": "2026-08-10T11:07:45Z"
+    },
+    {
+      "run_date": "2026-08-11",
+      "keyword": "best debt consolidation options in Florida",
+      "priority": "Alta",
+      "slug": "best-debt-consolidation-options-florida",
+      "title": "Best Debt Consolidation Options in Florida: 7 Routes to Compare First",
+      "url": "https://loanservicesllc.com/blog/best-debt-consolidation-options-florida/",
+      "status": "published",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current US/Florida results are dominated by debt consolidation loan rankings, lender roundups, debt relief explainers, credit counseling resources and official consumer-protection pages.",
+        "page_types": [
+          "Best debt consolidation loan listicles and rate tables",
+          "Debt consolidation lender review pages",
+          "Credit counseling and debt management explainers",
+          "Official consumer debt relief and scam-warning resources"
+        ],
+        "structure": "Top relevant pages commonly use ranked options, comparison tables, eligibility/cost factors, methodology, FAQs and risk warnings. Gaps include Florida payment-pressure context and a broader route comparison before pushing a new loan.",
+        "content_decision": "Publish a BOFU 7-route comparison covering credit counseling, DMPs, personal loans, balance transfers, home equity, creditor hardship/payoff plans and last-resort settlement/bankruptcy advice without making unsupported lender rankings."
+      },
+      "sources": [
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-credit-counseling-and-debt-settlement-debt-consolidation-or-credit-repair-en-1449/",
+          "used_for": "Credit counseling, debt settlement and consolidation distinctions"
+        },
+        {
+          "url": "https://mycreditunion.gov/manage-your-money/dealing-debt/debt-consolidation-options",
+          "used_for": "Debt consolidation option types and home-equity risk"
+        },
+        {
+          "url": "https://www.myfloridalegal.com/consumer-protection/additional-resources/relief",
+          "used_for": "Florida consumer debt relief guidance and creditor-contact context"
+        },
+        {
+          "url": "https://consumer.ftc.gov/articles/how-get-out-debt",
+          "used_for": "FTC debt relief and credit counseling caution context"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/services/personal/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/what-lenders-check-first/",
+        "https://loanservicesllc.com/blog/how-to-prepare-a-loan-request/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-debt-consolidation-options.jpg",
+      "notes": "No YouTube embed used because current intent was satisfied by comparison structure, official citations, table and FAQs; video was not material to the lending decision.",
+      "article_commit_sha": "b806ab5",
+      "verified_at": "2026-08-11T11:16:00Z",
+      "verification": {
+        "url_http_status": 200,
+        "h1": "Best Debt Consolidation Options in Florida: 7 Routes to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/best-debt-consolidation-options-florida/",
+        "image_status": 200,
+        "blog_index": true,
+        "sitemap": true,
+        "desktop_render": "passed live at 1440x1100",
+        "mobile_render": "passed live at 390x900 after mobile text-wrap fix"
+      }
     }
   ]
 }
