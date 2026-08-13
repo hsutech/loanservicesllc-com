@@ -684,6 +684,81 @@
         "desktop_render": "passed live at 1440x1100",
         "mobile_render": "passed live at 390x900 after mobile text-wrap fix"
       }
+    },
+    {
+      "run_date": "2026-08-13",
+      "keyword": "local loan services reviews Palm Beach",
+      "priority": "Alta",
+      "slug": "local-loan-services-reviews-palm-beach",
+      "title": "Local Loan Services Reviews Palm Beach: 7 Checks Before You Apply",
+      "url": "https://loanservicesllc.com/blog/local-loan-services-reviews-palm-beach/",
+      "status": "published",
+      "serp_observations": {
+        "intent": "Commercial BOFU/local reputation research. Searchers are close to contacting a provider and want to compare local loan service reviews, ratings, directories, branches and legitimacy signals before applying.",
+        "page_types": [
+          "BBB local loans category/directory pages",
+          "Local branch and review-aggregator pages",
+          "Personal loan rate tables for Palm Beach/Florida",
+          "Provider discovery pages for banks, credit unions, payday/installment lenders and business financing offices"
+        ],
+        "structure": "Top relevant pages emphasize ratings, addresses, filters, phone numbers, review counts, hours, categories, quote buttons, rate tables and short business-profile facts. Most lack an editorial table of contents, methodology, licensing workflow, review-quality guidance, total-cost checklist or payment-fit advice.",
+        "content_decision": "Publish a BOFU review-checklist article rather than a fabricated ranking or testimonial page. Differentiate by teaching borrowers how to interpret reviews, verify licensing, compare written APR/fees and identify pressure signals before applying."
+      },
+      "sources": [
+        {
+          "url": "https://www.bbb.org/us/fl/palm-beach/category/loans",
+          "used_for": "Current SERP benchmark for local Palm Beach loans directory structure, categories and ratings surface"
+        },
+        {
+          "url": "https://www.monitorbankrates.com/personal-loan-rates/florida/palm-beach",
+          "used_for": "Current SERP benchmark for local rate-table/listing intent and as-low-as APR comparison framing"
+        },
+        {
+          "url": "https://reviews.birdeye.com/advance-america-157312540366632",
+          "used_for": "Current SERP benchmark for branch-review page structure, review counts and FAQ style"
+        },
+        {
+          "url": "https://consumer.ftc.gov/articles/how-evaluate-online-reviews",
+          "used_for": "Official consumer guidance on evaluating online reviews and fake/deceptive review signals"
+        },
+        {
+          "url": "https://www.bbb.org/all/overview-of-ratings",
+          "used_for": "BBB rating versus customer review distinction and limitations"
+        },
+        {
+          "url": "https://www.flofr.gov/education/verify-a-license",
+          "used_for": "Florida license/regulator verification paths for finance providers"
+        },
+        {
+          "url": "https://www.bbb.org/article/news-releases/14101-bbb-tip-loans",
+          "used_for": "Personal-loan research checklist for APR, total repayment, fees, contract and red flags"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/best-personal-loans-palm-beach-county/",
+        "https://loanservicesllc.com/blog/best-business-loans-palm-beach-county/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/palm-beach-loan-services-review-checklist.jpg",
+      "notes": "No YouTube embed used because current intent is best served by review-source interpretation, licensing checks, table, FAQs and official consumer/regulator sources. No ratings, reviews, prices or first-hand experiences were invented. Original featured image generated with built-in imagegen and optimized to JPEG 1672x941.",
+      "article_commit_sha": "1980a7946d5a0a7207c4402b5b4807ecc32c9182",
+      "verified_at": "2026-08-13T11:09:00Z",
+      "verification": {
+        "local_article_checks": "passed: 1837 article-body words, one H1 tag, canonical and Open Graph image present, 4 external editorial body links, 4 internal body links, Article/FAQ schema valid, no placeholder text, no unsupported review/rating/approval claims",
+        "build": "passed: npm run build, Eleventy copied 26 assets and wrote 41 files",
+        "url_http_status": 200,
+        "h1": "Local Loan Services Reviews Palm Beach: 7 Checks Before You Apply",
+        "canonical": "https://loanservicesllc.com/blog/local-loan-services-reviews-palm-beach/",
+        "image_status": 200,
+        "image_content": "JPEG 1672x941, 281839 bytes live image returned HTTP 200",
+        "blog_index": true,
+        "sitemap": true,
+        "desktop_render": "automated browser screenshot unavailable: no Chrome/Chromium/Playwright/browser-control tool in this environment; static responsive CSS and live HTML checks passed",
+        "mobile_render": "automated browser screenshot unavailable: no Chrome/Chromium/Playwright/browser-control tool in this environment; mobile-specific H1 wrapping CSS and no-overflow patterns matched prior verified templates",
+        "pushed": true,
+        "deployment": "verified on second live attempt after Cloudflare propagation; first attempt served stale/home HTML at article route while blog and sitemap had already updated"
+      }
     }
   ]
 }
