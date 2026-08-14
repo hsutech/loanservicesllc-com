@@ -759,6 +759,66 @@
         "pushed": true,
         "deployment": "verified on second live attempt after Cloudflare propagation; first attempt served stale/home HTML at article route while blog and sitemap had already updated"
       }
+    },
+    {
+      "run_date": "2026-08-14",
+      "keyword": "personal loan alternatives in Florida",
+      "priority": "Media",
+      "slug": "personal-loan-alternatives-florida",
+      "title": "Personal Loan Alternatives in Florida: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/personal-loan-alternatives-florida/",
+      "status": "prepared_pending_push_verification",
+      "serp_observations": {
+        "intent": "Commercial BOFU alternatives/listicle. Current Google US/South Florida-style results favor personal-loan alternative listicles, lender marketplace explainers, bad-credit Florida loan pages, payday-alternative resources and consumer-protection pages.",
+        "page_types": [
+          "National personal loan alternatives listicles",
+          "Personal loan and bad-credit loan marketplace pages",
+          "Payday loan alternatives and consumer-protection explainers",
+          "Official Florida and federal regulator resources",
+          "Credit union small-dollar/PAL guidance"
+        ],
+        "structure": "Top pages commonly use author/editor/reviewer bylines, update dates, table of contents, comparison tables, pros/cons, APR or fee warnings, methodology signals and FAQs. Common coverage includes credit cards, 0% APR transfers, personal lines of credit, home equity, 401(k) loans, salary advances, cash advance apps, family loans and counseling.",
+        "gaps": "National pages rarely adapt the comparison to Florida payment pressure, Palm Beach local assistance, Florida deferred-presentment rules, credit union PALs and the difference between a one-time bill, recurring cash-flow problem and debt-management issue.",
+        "content_decision": "Publish a Florida-focused 7-option BOFU alternatives guide that prioritizes lower-risk routes before a personal loan, uses official sources for payday/PAL/regulatory claims and avoids fabricated lender rankings, prices, reviews or approval claims."
+      },
+      "sources": [
+        {
+          "url": "https://www.credible.com/personal-loan/personal-loan-alternatives",
+          "used_for": "SERP benchmark for personal loan alternatives structure, author/editor signals and common alternatives"
+        },
+        {
+          "url": "https://www.bankrate.com/loans/personal-loans/alternatives-to-personal-loans/",
+          "used_for": "SERP benchmark for comparison table, alternatives coverage and FAQ intent"
+        },
+        {
+          "url": "https://www.nerdwallet.com/personal-loans/learn/payday-loan-alternatives",
+          "used_for": "SERP benchmark for payday-alternative framing and consumer-risk coverage"
+        },
+        {
+          "url": "https://ncua.gov/support-services/access",
+          "used_for": "Federal credit union PAL/PAL II and small-dollar alternative context"
+        },
+        {
+          "url": "https://flofr.gov/education/consumer-resources",
+          "used_for": "Florida OFR deferred-presentment provider rules and alternative-solution guidance"
+        },
+        {
+          "url": "https://consumer.ftc.gov/articles/what-know-about-payday-and-car-title-loans",
+          "used_for": "FTC payday/title loan risks and less-risky alternative options"
+        },
+        {
+          "url": "https://www.lendingtree.com/personal/loans-for-bad-credit-florida/",
+          "used_for": "Florida SERP benchmark for local bad-credit loan alternatives and CDFI mentions"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/best-debt-consolidation-options-florida/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/best-personal-loans-palm-beach-county/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-personal-loan-alternatives.jpg",
+      "notes": "No YouTube embed used because the SERP and topic were better served by comparison tables, official regulator links and local Florida/Palm Beach guidance. Featured image generated with built-in imagegen and optimized as JPEG."
     }
   ]
 }
