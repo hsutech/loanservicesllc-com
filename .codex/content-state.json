@@ -820,7 +820,7 @@
       "featured_image": "/assets/blog/florida-personal-loan-alternatives.jpg",
       "notes": "No YouTube embed used because the SERP and topic were better served by comparison tables, official regulator links and local Florida/Palm Beach guidance. Featured image generated with built-in imagegen and optimized as JPEG.",
       "article_commit_sha": "372a33c",
-      "verified_at": "2026-08-14T12:55:00Z",
+      "verified_at": "2026-08-14T11:02:37Z",
       "verification": {
         "local_article_checks": "passed: 2364 words, one H1, canonical and Open Graph image present, 4 external body links, 4 real internal body links, Article/FAQ schema valid, no placeholder text and no unsupported approval/rate claims",
         "build": "passed: npm run build, Eleventy copied 27 assets and wrote 42 files",
