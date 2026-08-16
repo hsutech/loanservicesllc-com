@@ -834,6 +834,79 @@
         "live_verification": "passed on second attempt with cache-buster; first attempt failed only due sandbox DNS",
         "desktop_mobile_render": "browser screenshot tooling unavailable in this session; responsive HTML/CSS metadata, image loading and no-overflow safeguards checked statically"
       }
+    },
+    {
+      "run_date": "2026-08-16",
+      "keyword": "business loan alternatives in Florida",
+      "priority": "Media",
+      "slug": "business-loan-alternatives-florida",
+      "title": "Business Loan Alternatives in Florida: 7 Options to Compare First",
+      "url": "https://loanservicesllc.com/blog/business-loan-alternatives-florida/",
+      "status": "published",
+      "serp_observations": {
+        "intent": "Commercial BOFU alternatives/listicle. Current Google US/South Florida-style results favor national small-business-loan listicles, lender marketplaces, line-of-credit and invoice/equipment financing explainers, SBA resources and Florida business funding pages.",
+        "page_types": [
+          "National best-small-business-loan rankings and lender marketplaces",
+          "Business line of credit and secured credit line guides",
+          "Invoice financing, equipment financing and merchant cash advance explainers",
+          "Official SBA loan, microloan and Lender Match resources",
+          "Florida SBDC and Palm Beach County business funding resources"
+        ],
+        "structure": "Top pages commonly use comparison tables, provider or product categories, author/editor signals, update dates, eligibility notes, pros/cons, calculators or methodology, FAQs and warnings about cost, repayment terms and qualification. Official resources emphasize eligibility, allowed uses, lender-readiness and program limits.",
+        "gaps": "National pages rarely adapt the alternatives decision to Florida cash-flow timing, Palm Beach County program availability, supplier/customer terms, document readiness and when a fast product such as revenue-based financing can increase repayment pressure.",
+        "content_decision": "Publish a Florida-focused BOFU alternatives guide comparing seven routes by use of funds, timing, collateral, repayment source and risk. Avoid fabricated lender rankings, rates, reviews or approval claims. No YouTube embed because the intent is better served by tables, official sources and local program links."
+      },
+      "sources": [
+        {
+          "url": "https://www.wsj.com/buyside/personal-finance/business-loans/best-small-business-loans",
+          "used_for": "Current SERP benchmark for BOFU small-business-loan listicle categories, methodology and lender comparison intent"
+        },
+        {
+          "url": "https://www.sba.gov/loans/",
+          "used_for": "Official SBA loan program framing, benefits, eligibility and Lender Match context"
+        },
+        {
+          "url": "https://www.sba.gov/loans/microloans/",
+          "used_for": "Official microloan amount, intermediary-lender model, allowed uses and restrictions"
+        },
+        {
+          "url": "https://discover.pbcgov.org/HED/Pages/Palm-Beach-County-Business-Loan-Program.aspx",
+          "used_for": "Local Palm Beach County business loan program scope, purpose and eligibility context"
+        },
+        {
+          "url": "https://floridasbdc.org/services/access-to-capital/",
+          "used_for": "Florida SBDC access-to-capital readiness and advisory context"
+        },
+        {
+          "url": "https://www.nerdwallet.com/business/loans/learn/terms",
+          "used_for": "SERP benchmark for terms across business lines of credit, invoice financing, equipment financing and microloans"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/working-capital-memo/",
+        "https://loanservicesllc.com/blog/small-business-loan-red-flags-before-signing/",
+        "https://loanservicesllc.com/blog/best-small-business-financing-south-florida/",
+        "https://loanservicesllc.com/services/business/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-business-loan-alternatives.jpg",
+      "notes": "No YouTube embed used because current SERP intent is comparison/resource-led rather than video-led. Featured image is an original optimized JPEG business-financing desk visual with descriptive alt text. Mobile header CSS was adjusted after screenshot QA found title/subtitle overflow.",
+      "article_commit_sha": "2325084",
+      "verified_at": "2026-08-16T11:06:31Z",
+      "verification": {
+        "local_article_checks": "passed: 2290 words, one H1, canonical and Open Graph image present, 4 external links, 6 internal links, Article/FAQ schema valid, no placeholder text and no unsupported approval/rate claims",
+        "build": "passed: npm run build, Eleventy copied 28 assets and wrote 43 files",
+        "url_http_status": 200,
+        "h1": "Business Loan Alternatives in Florida: 7 Options to Compare First",
+        "canonical": "https://loanservicesllc.com/blog/business-loan-alternatives-florida/",
+        "image_status": 200,
+        "image_content": "JPEG 1672x941, 323667 bytes",
+        "blog_index": true,
+        "sitemap": true,
+        "local_render": "passed desktop 1440x1100 and mobile 390x900 Chrome headless screenshots after mobile overflow fix",
+        "live_render": "passed desktop 1440x1100 and mobile 390x900 Chrome headless screenshots",
+        "deployment": "verified on second live attempt after initial stale/fallback response on article route"
+      }
     }
   ]
 }
