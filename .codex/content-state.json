@@ -907,6 +907,83 @@
         "live_render": "passed desktop 1440x1100 and mobile 390x900 Chrome headless screenshots",
         "deployment": "verified on second live attempt after initial stale/fallback response on article route"
       }
+    },
+    {
+      "run_date": "2026-08-17",
+      "keyword": "auto loan vs personal loan Florida",
+      "priority": "Media",
+      "slug": "auto-loan-vs-personal-loan-florida",
+      "title": "Auto Loan vs Personal Loan in Florida: 7 Checks Before You Choose",
+      "url": "https://loanservicesllc.com/blog/auto-loan-vs-personal-loan-florida/",
+      "status": "published",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current Google US results for auto loan vs personal loan are dominated by national personal-finance explainers comparing secured auto loans with flexible personal loans for vehicle purchases.",
+        "page_types": [
+          "Personal loan vs auto loan comparison explainers",
+          "Bank and lender education pages",
+          "Personal-loan-for-car articles",
+          "Credit union comparison guides",
+          "Official auto-financing consumer guidance"
+        ],
+        "structure": "Top relevant pages use side-by-side tables, author/editor/fact-check signals, update dates, pros and cons, cost examples, collateral/down-payment sections and FAQs. Few adapt the choice to Florida registration, insurance, title, private-party, older-vehicle and dealer-fee context.",
+        "gaps": "The SERP generally states that auto loans are often cheaper and personal loans more flexible, but it underexplains Florida insurance before registration, lender coverage requirements, title/lien handling, private-party friction, dealer out-the-door pricing and payment fit after ownership costs.",
+        "content_decision": "Publish a Florida-focused BOFU comparison with seven decision checks instead of another best-auto-loan listicle, avoiding canibalization with the existing Florida auto loan options article."
+      },
+      "sources": [
+        {
+          "url": "https://www.nerdwallet.com/personal-loans/learn/personal-loan-vs-car-loan",
+          "used_for": "SERP benchmark for comparison table, author/editor signals and general auto-loan vs personal-loan framing"
+        },
+        {
+          "url": "https://www.credible.com/personal-loan/auto-loan-vs-personal-loan",
+          "used_for": "SERP benchmark for older/private-party/nonstandard vehicle cases where personal loans may be discussed"
+        },
+        {
+          "url": "https://www.bankrate.com/loans/personal-loans/can-you-use-personal-loan-to-buy-car/",
+          "used_for": "SERP benchmark for personal loan use cases, pros/cons and table-of-contents coverage"
+        },
+        {
+          "url": "https://www.citi.com/personal-loans/learning-center/basics/personal-loan-vs-auto-loan",
+          "used_for": "SERP benchmark for bank/lender educational comparison structure"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-dealer-arranged-and-bank-financing-en-759/",
+          "used_for": "Direct versus dealer-arranged auto financing and comparison-shopping guidance"
+        },
+        {
+          "url": "https://consumer.ftc.gov/articles/financing-or-leasing-car",
+          "used_for": "Out-the-door price, total cost, dealer add-ons and financing comparison guidance"
+        },
+        {
+          "url": "https://www.flhsmv.gov/insurance/",
+          "used_for": "Florida insurance context before registration"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/auto-loan-documents/",
+        "https://loanservicesllc.com/blog/best-auto-loan-options-florida/",
+        "https://loanservicesllc.com/services/auto/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-auto-vs-personal-loan.jpg",
+      "notes": "No YouTube embed used because current SERP intent is comparison/resource-led rather than video-led. Featured image generated with built-in imagegen and optimized to JPEG 1672x941/253,273 bytes live.",
+      "article_commit_sha": "2f40125",
+      "verified_at": "2026-08-17T11:07:04Z",
+      "verification": {
+        "local_article_checks": "passed: 1949 words, one H1, canonical and Open Graph image present, 4 external links, 5 internal links, Article/FAQ schema valid, no placeholder text and no unsupported approval/rate claims",
+        "build": "passed: npm run build, Eleventy copied 29 assets and wrote 44 files",
+        "url_http_status": 200,
+        "h1": "Auto Loan vs Personal Loan in Florida: 7 Checks Before You Choose",
+        "canonical": "https://loanservicesllc.com/blog/auto-loan-vs-personal-loan-florida/",
+        "image_status": 200,
+        "image_content": "JPEG, 253273 bytes",
+        "blog_index": true,
+        "sitemap": true,
+        "local_render": "passed desktop 1440x1100 and mobile 390x900 Chrome headless screenshots after mobile wrapping fix",
+        "live_render": "passed desktop 1440x1100 and mobile 390x900 Chrome headless screenshots",
+        "deployment": "verified on second live attempt with cache-buster and third attempt on canonical URL without cache-buster"
+      }
     }
   ]
 }
