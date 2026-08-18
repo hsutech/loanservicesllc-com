@@ -984,6 +984,78 @@
         "live_render": "passed desktop 1440x1100 and mobile 390x900 Chrome headless screenshots",
         "deployment": "verified on second live attempt with cache-buster and third attempt on canonical URL without cache-buster"
       }
+    },
+    {
+      "run_date": "2026-08-18",
+      "keyword": "home equity loan vs personal loan Florida",
+      "priority": "Media",
+      "slug": "home-equity-loan-vs-personal-loan-florida",
+      "title": "Home Equity Loan vs Personal Loan in Florida: 7 Checks Before You Borrow",
+      "url": "https://loanservicesllc.com/blog/home-equity-loan-vs-personal-loan-florida/",
+      "status": "published",
+      "serp_observations": {
+        "intent": "Commercial BOFU comparison. Current Google US/South Florida-style results favor lender and finance-publisher comparisons explaining collateral, speed, cost, terms, use cases, alternatives and FAQs.",
+        "page_types": [
+          "Home equity loan vs personal loan explainers",
+          "Bank and mortgage lender educational comparison pages",
+          "Personal finance publisher comparison pages with author/reviewer signals",
+          "Official CFPB and IRS guidance for home-equity risk and tax treatment"
+        ],
+        "structure": "Top results commonly use a direct answer, table of contents, side-by-side table, pros and cons, when-to-choose sections, alternatives such as HELOCs, author/editor review signals, images and FAQs. Florida-specific gaps include insurance/property budget pressure, storm repairs, future sale/refinance flexibility and the risk of converting unsecured debt into home-secured debt.",
+        "content_decision": "Publish a Florida-first BOFU comparison with seven checks: collateral risk, loan size, total repayment, HELOC distinction, tax assumptions, Florida property budget and future sale/refinance plans. Avoid rate quotes, lender rankings and tax promises."
+      },
+      "sources": [
+        {
+          "url": "https://www.rocketmortgage.com/learn/home-equity-loan-vs-personal-loan",
+          "used_for": "SERP benchmark for comparison structure, TOC, table and use-case coverage"
+        },
+        {
+          "url": "https://www.pnc.com/insights/personal-finance/borrow/personal-loan-vs-home-equity-loan-key-differences.html",
+          "used_for": "SERP benchmark for lender educational page structure and key differences"
+        },
+        {
+          "url": "https://www.bankrate.com/loans/personal-loans/personal-loans-vs-home-equity-loans/",
+          "used_for": "SERP benchmark and article source for collateral/cost tradeoff"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-loan-en-106/",
+          "used_for": "Official home equity loan definition and foreclosure risk"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-home-equity-loan-and-a-home-equity-line-of-credit-heloc-en-247/",
+          "used_for": "Official home equity loan vs HELOC distinction"
+        },
+        {
+          "url": "https://www.irs.gov/faqs/itemized-deductions-standard-deduction/real-estate-taxes-mortgage-interest-points-other-property-expenses/real-estate-taxes-mortgage-interest-points-other-property-expenses-3",
+          "used_for": "Official tax treatment warning for home equity loan proceeds used for personal debts"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/best-home-improvement-loans-florida/",
+        "https://loanservicesllc.com/blog/personal-loan-alternatives-florida/",
+        "https://loanservicesllc.com/services/property/",
+        "https://loanservicesllc.com/apply/"
+      ],
+      "featured_image": "/assets/blog/florida-home-equity-vs-personal-loan.jpg",
+      "notes": "No YouTube embed used because the SERP and topic are better served by comparison tables, official consumer/tax sources and a risk-focused decision checklist. Featured image generated with built-in imagegen and optimized as JPEG 1672x941.",
+      "article_commit_sha": "6d528f1",
+      "verified_at": "2026-08-18T11:03:12Z",
+      "verification": {
+        "local_article_checks": "passed: 2040 article-body words, one H1, canonical and Open Graph image present, 4 external body links, real internal links, Article/FAQ schema valid, no placeholder text and no unsupported approval/rate claims",
+        "build": "passed: npm run build, Eleventy copied 30 assets and wrote 45 files",
+        "url_http_status": 200,
+        "h1": "Home Equity Loan vs Personal Loan in Florida: 7 Checks Before You Borrow",
+        "canonical": "https://loanservicesllc.com/blog/home-equity-loan-vs-personal-loan-florida/",
+        "image_status": 200,
+        "image_content": "JPEG 1672x941, live 260595 bytes",
+        "blog_index": true,
+        "sitemap": true,
+        "local_desktop_render": "passed at 1440x1100",
+        "local_mobile_render": "passed at 390x900 after mobile line-wrap adjustment",
+        "live_desktop_render": "passed at 1440x1100",
+        "live_mobile_render": "passed at 390x900",
+        "deployment": "verified on third live attempt after initial stale/fallback route response"
+      }
     }
   ]
 }
