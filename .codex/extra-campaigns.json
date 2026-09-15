@@ -1,0 +1,56 @@
+{
+  "campaigns": [
+    {
+      "automation_id": "extra-reddit-loanservicesllc-com",
+      "run_date": "2026-07-20",
+      "domain": "loanservicesllc.com",
+      "market": "United States with Florida context",
+      "language": "English",
+      "topic": "9 Small Business Loan Red Flags to Review Before Signing",
+      "slug": "small-business-loan-red-flags-before-signing",
+      "url": "https://loanservicesllc.com/blog/small-business-loan-red-flags-before-signing/",
+      "status": "prepared",
+      "serp_observations": {
+        "intent": "Informational pre-signing risk checklist for small business borrowers evaluating loan agreements, merchant cash advances, short-term financing and lender/broker pressure tactics.",
+        "page_types": [
+          "Lender and marketplace blog posts about business loan agreement terms",
+          "Contract explainer articles covering personal guarantees, collateral, prepayment and default clauses",
+          "FTC and SBA predatory-lending and scam warnings",
+          "Florida regulator/license verification resources"
+        ],
+        "content_decision": "Publish a focused pre-signing checklist, not another broad business-loan comparison or general loan-terms glossary, to avoid cannibalizing existing business-loan and loan-terms articles."
+      },
+      "sources": [
+        {
+          "url": "https://www.sba.gov/funding-programs/loans",
+          "used_for": "SBA small business loan program context and predatory-lending warning signs"
+        },
+        {
+          "url": "https://www.ftc.gov/business-guidance/blog/2020/06/looking-small-business-financing-read-first",
+          "used_for": "FTC small business financing enforcement context: hidden fees, daily debits and personal guarantee claims"
+        },
+        {
+          "url": "https://flofr.gov/education/verify-a-license",
+          "used_for": "Florida financial services license verification context"
+        },
+        {
+          "url": "https://www.reddit.com/r/loansforsmallbusiness/",
+          "used_for": "Required subreddit destination, described only as a peer-discussion community"
+        }
+      ],
+      "internal_links": [
+        "https://loanservicesllc.com/blog/best-business-loans-palm-beach-county/",
+        "https://loanservicesllc.com/blog/working-capital-memo/",
+        "https://loanservicesllc.com/blog/payment-fit/",
+        "https://loanservicesllc.com/blog/what-lenders-check-first/",
+        "https://loanservicesllc.com/services/business/"
+      ],
+      "featured_image": "/assets/blog/small-business-loan-red-flags-before-signing.jpg",
+      "required_anchor": "r/loansforsmallbusiness",
+      "required_destination": "https://www.reddit.com/r/loansforsmallbusiness/",
+      "article_commit_sha": null,
+      "verified_at": null,
+      "verification": {}
+    }
+  ]
+}
