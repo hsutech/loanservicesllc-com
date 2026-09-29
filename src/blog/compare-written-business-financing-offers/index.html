@@ -11,8 +11,8 @@
   
   
   
-  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="../../assets/site.css">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/site.css">
   
   
   
@@ -20,16 +20,6 @@
   
   
   
-<base href="/">
-
-
-
-
-
-
-
-
-
 <style>
 .campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
 .campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
@@ -45,16 +35,6 @@
 .campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
 @media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
 </style>
-<base href="/">
-
-
-
-
-
-
-
-
-
 <style>
 .campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
 .campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
@@ -70,7 +50,51 @@
 .campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
 @media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
 </style>
-<base href="/">
+<style>
+.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
+.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
+.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
+.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
+.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
+.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
+.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
+.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
+.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
+.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
+.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
+.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
+@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
+</style>
+<style>
+.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
+.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
+.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
+.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
+.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
+.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
+.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
+.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
+.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
+.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
+.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
+.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
+@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
+</style>
+<style>
+.campaign-hero{padding:clamp(2rem,5vw,4.5rem) 1.5rem;background:#f3f5f7;color:#182b39}
+.campaign-wrap{max-width:1120px;margin:auto}.campaign-hero h1{max-width:850px;font-size:clamp(2rem,4vw,3.3rem);line-height:1.13;margin:.5rem 0 1rem}
+.campaign-kicker{font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}.campaign-meta{color:#536270}
+.campaign-layout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,760px);gap:clamp(1.5rem,4vw,4rem);padding:2.5rem 1.5rem 5rem;align-items:start}
+.campaign-layout>*{min-width:0}.campaign-toc{position:sticky;top:1rem;border-left:2px solid #cbd4dc;padding-left:1rem}
+.campaign-toc h2{font-size:1rem;margin:0 0 .75rem}.campaign-toc ol{padding-left:1.2rem;margin:0}.campaign-toc li{margin:.55rem 0;font-size:.9rem}
+.campaign-body{font-size:1.05rem;line-height:1.75;color:#253340}.campaign-body>p{margin:0 0 1.35rem}.campaign-body h2{font-size:clamp(1.45rem,2.4vw,2rem);line-height:1.25;margin:2.5rem 0 1rem}
+.campaign-body h3{font-size:1.2rem;line-height:1.3;margin:1.8rem 0 .55rem}.campaign-body a{text-decoration:underline;text-underline-offset:2px}
+.campaign-body ul{margin:0 0 1.35rem;padding-left:1.5rem}.campaign-table{overflow-x:auto;margin:1.5rem 0 2rem;border:1px solid #d5dde3;border-radius:6px}
+.campaign-table table{width:100%;border-collapse:collapse;min-width:600px}.campaign-table th,.campaign-table td{padding:.75rem .9rem;border-bottom:1px solid #d5dde3;text-align:left;vertical-align:top}
+.campaign-table th{background:#e9eef2;color:#182b39}.campaign-table tr:last-child td{border-bottom:0}
+.campaign-feature{margin:0 0 1.5rem;overflow:hidden;border-radius:6px}.campaign-feature img{display:block;width:100%;height:auto;max-height:420px;object-fit:cover}
+@media(max-width:800px){.campaign-layout{grid-template-columns:1fr}.campaign-toc{position:static}}
+</style>
 <title>How to Compare Written Business Financing Offers | loanservicesllc.com</title>
 <meta name="description" content="A plain-English worksheet for comparing business financing offers by funds received, total cost, payment dates, collateral and conditions.">
 <link rel="canonical" href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/">
@@ -98,11 +122,10 @@
 </head>
 <body class="blog-post">
   <header class="site-header">
-    <a class="brand" href="/" aria-label="Loan Services LLC home"><img src="../../assets/logo.svg" alt="Loan Services LLC"></a>
+    <a class="brand" href="/" aria-label="Loan Services LLC home"><img src="/assets/logo.svg" alt="Loan Services LLC"></a>
     <nav aria-label="Main navigation"><a href="/">Home</a><a href="/services/">Services</a><a href="/about/">About</a><a href="/blog/" aria-current="page">Blog</a><a href="/contact/">Contact</a><a class="nav-cta" href="/apply/">Apply</a></nav>
   </header>
-  <main id="main"><section class="campaign-hero"><div class="campaign-wrap"><p class="campaign-kicker"><a href="/blog/">Blog</a> · Financing guide</p><h1>How to Compare Written Business Financing Offers</h1><p class="campaign-meta">By Loan Services LLC Editorial Team · September 29, 2026</p></div></section><div class="campaign-wrap campaign-layout"><nav class="campaign-toc" aria-label="Table of contents"><h2>In this article</h2><ol><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#compare-the-same-transaction">Compare the same transaction</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#start-with-funds-actually-received">Start with funds actually received</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#put-total-cost-beside-payment-size">Put total cost beside payment size</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#read-timing-and-repayment-frequency">Read timing and repayment frequency</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#check-guarantees-and-collateral">Check guarantees and collateral</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#make-a-one-page-comparison">Make a one-page comparison</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#review-changes-before-signing">Review changes before signing</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#frequently-asked-questions">Frequently asked questions</a></li></ol></nav><article class="campaign-body"><figure class="campaign-feature"><img src="https://loanservicesllc.com/assets/logo.svg" alt="How to Compare Written Business Financing Offers" loading="lazy"></figure><p>When financing advice conflicts, a written offer is more useful than another general opinion. One person says to ask a bank; another says an online provider will move faster; a third recommends a specific program. None of those answers tells you what your business would receive, what it would owe, or when payments would be due. A fair comparison puts those numbers and conditions on one page.</p>
-<p>The owner behind a <a href="https://www.reddit.com/r/loansforsmallbusiness/comments/1ugzpak/small_business_financing_how_do_you_even_know/" rel="noopener noreferrer">small business financing question on Reddit</a> described searching for weeks before applying for a truck and equipment purchase. The post is a useful example of uncertainty, not evidence that any product is approved or suitable. This guide starts one step later: once two or more providers have given you written terms, how do you read them without being distracted by speed or a low-looking payment?</p>
+  <main id="main"><section class="campaign-hero"><div class="campaign-wrap"><p class="campaign-kicker"><a href="/blog/">Blog</a> · Financing guide</p><h1>How to Compare Written Business Financing Offers</h1><p class="campaign-meta">By Loan Services LLC Editorial Team · September 29, 2026</p></div></section><div class="campaign-wrap campaign-layout"><nav class="campaign-toc" aria-label="Table of contents"><h2>In this article</h2><ol><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#compare-the-same-transaction">Compare the same transaction</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#start-with-funds-actually-received">Start with funds actually received</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#put-total-cost-beside-payment-size">Put total cost beside payment size</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#read-timing-and-repayment-frequency">Read timing and repayment frequency</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#check-guarantees-and-collateral">Check guarantees and collateral</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#make-a-one-page-comparison">Make a one-page comparison</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#review-changes-before-signing">Review changes before signing</a></li><li><a href="https://loanservicesllc.com/blog/compare-written-business-financing-offers/#frequently-asked-questions">Frequently asked questions</a></li></ol></nav><article class="campaign-body"><figure class="campaign-feature"><img src="https://loanservicesllc.com/assets/logo.svg" alt="How to Compare Written Business Financing Offers" loading="lazy"></figure><p>When financing advice conflicts, a written offer is more useful than another general opinion. One person says to ask a bank; another says an online provider will move faster; a third recommends a specific program. None of those answers tells you what your business would receive, what it would owe, or when payments would be due. A fair comparison puts those numbers and conditions on one page. Even when an owner starts by researching <a href="https://www.reddit.com/r/loansforsmallbusiness/comments/1ugzpak/small_business_financing_how_do_you_even_know/" rel="noopener noreferrer">small business financing</a> for a truck and equipment, the decision eventually has to be made from written terms rather than provider labels.</p>
 <h2 id="compare-the-same-transaction">Compare the same transaction</h2>
 <p>Begin with the purpose and amount. If one quote covers a $35,000 vehicle and equipment purchase while another covers only the vehicle, their payments cannot be compared directly. Write the asset price, taxes, fees, insurance and cash contribution in the same format for every provider. Record whether the lender pays the seller, sends funds to the business or requires reimbursement after purchase.</p>
 <p>Note which terms are preliminary and which are final. An online estimate can be a useful starting point, but it may change after document review. Do not put an advertised example in the same column as a conditional approval and assume they carry equal weight. Mark each offer&#x27;s stage: marketing example, estimate, prequalification, conditional offer or final agreement. Ask the provider what remains to be verified.</p>
@@ -141,7 +164,7 @@
   <footer class="site-footer">
     <div class="footer-grid">
       <div>
-        <img class="footer-logo" src="../../assets/logo-reverse.svg" alt="Loan Services LLC">
+        <img class="footer-logo" src="/assets/logo-reverse.svg" alt="Loan Services LLC">
         <p>Loan guidance for Palm Beach borrowers who want a clear path before applying.</p>
       </div>
       <div><h2>Services</h2><ul><li><a href="/auto-car-loans/">Auto Car Loans</a></li><li><a href="/personal-loans/">Personal Loans</a></li><li><a href="/business-loans/">Business Loans</a></li><li><a href="/property-loans/">Property Loans</a></li><li><a href="/education-loans/">Education Loans</a></li><li><a href="/wedding-loans/">Wedding Loans</a></li></ul></div>
