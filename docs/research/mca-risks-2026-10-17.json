@@ -1,0 +1,90 @@
+{
+  "article": {
+    "id": "loanservicesllc-com",
+    "clientId": "mca-discussion",
+    "domain": "loanservicesllc.com",
+    "project": "loanservicesllc-com",
+    "repository": "https://github.com/hsutech/loanservicesllc-com",
+    "title": "Merchant Cash Advance Red Flags Before You Sign",
+    "slug": "merchant-cash-advance-red-flags",
+    "route": "/blog/merchant-cash-advance-red-flags/",
+    "description": "Review missing terms, sales pressure, reconciliation promises and broker identity before accepting an MCA.",
+    "author": "Loan Services LLC Editorial Team",
+    "language": "en",
+    "market": "US; international startup perspective for Al Wadyat",
+    "date": "2026-10-17",
+    "sourceFile": "content/mca-risks-2026-10-17/loanservicesllc-com.md",
+    "artifactDirectory": "dist",
+    "state": "research_complete",
+    "wordTarget": [
+      1300,
+      1800
+    ],
+    "origin": "https://loanservicesllc.com",
+    "keyword": "merchant cash advance",
+    "type": "guide",
+    "angle": "Review missing terms, sales pressure, reconciliation promises and broker identity before accepting an MCA."
+  },
+  "checked_at": "2026-10-17",
+  "serp": {
+    "patterns": [
+      "Factor rates versus APR",
+      "Repayment pressure and alternatives",
+      "Forum recommendations mix anecdotes with sales claims"
+    ],
+    "gap": "Review missing terms, sales pressure, reconciliation promises and broker identity before accepting an MCA."
+  },
+  "sources": [
+    {
+      "url": "https://www.ftc.gov/business-guidance/blog/2020/02/small-business-financing-staff-perspective-outlines-issues",
+      "kind": "primary source",
+      "context": " reduction. Forecast the original withdrawals through the expected review period unless the contract clearly provides otherwise.\n\nThe FTC's [financing forum summary](https://www.ftc.gov/business-guidance/blog/2020/02/small-business-financing-staff-perspective-outlines-issues) raises concerns about reconciliation and misleading practices. It is a dated regulatory discussion, not proof that a particular c"
+    },
+    {
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2022/01/merchant-cash-advance-providers-banned-industry-ordered-redress-small-businesses",
+      "kind": "primary source",
+      "context": "financing, business operations or other conduct. Do not assume all contracts use the same definitions or enforcement mechanisms.\n\nThe FTC's [2022 MCA enforcement announcement](https://www.ftc.gov/news-events/news/press-releases/2022/01/merchant-cash-advance-providers-banned-industry-ordered-redress-small-businesses) concerns specific providers and practices. It supports taking representations seriously; it does not justify labeling every MCA c"
+    },
+    {
+      "url": "https://www.reddit.com/r/loansforsmallbusiness/comments/1synzlv/has_anyone_used_a_merchant_cash_advance_and_lived/",
+      "kind": "unverified discussion",
+      "context": "is manageable. Ask whether additional funding is permitted under current agreements.\n\n## Online praise is treated as verification\n\nA useful [merchant cash advance discussion thread](https://www.reddit.com/r/loansforsmallbusiness/comments/1synzlv/has_anyone_used_a_merchant_cash_advance_and_lived/) can surface questions that sales material overlooks. Its comments are unverified anecdotes. They do not establish a provider's cu"
+    }
+  ],
+  "claims": {
+    "verified": [
+      "Primary-source content checked on drafting date"
+    ],
+    "external_observations": [
+      "Reddit is anecdotal"
+    ],
+    "editorial_inferences": [
+      "Cash calendar and unit-economics tests",
+      "Hypothetical arithmetic explicitly labeled"
+    ],
+    "firsthand_evidence": []
+  },
+  "must_not_claim": [
+    "All MCAs are scams",
+    "Guaranteed approval or savings",
+    "Reddit stories are verified",
+    "Al Wadyat supplies US MCAs",
+    "Historical organizations are currently operating"
+  ],
+  "brief": {
+    "intent": "Informational decision aid",
+    "angle": "Review missing terms, sales pressure, reconciliation promises and broker identity before accepting an MCA.",
+    "images": "No invented or generic choosing graphic; retain native editorial presentation",
+    "disclosure": "General education, hypothetical examples, no individual financial/legal advice; US references not UAE law."
+  },
+  "internalLinks": [
+    {
+      "label": "comparing written business financing offers",
+      "url": "/blog/compare-written-business-financing-offers/"
+    },
+    {
+      "label": "business financing overview",
+      "url": "/services/business/"
+    }
+  ]
+}
