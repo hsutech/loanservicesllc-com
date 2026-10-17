@@ -1,0 +1,98 @@
+{
+  "article": {
+    "id": "loanservicesllc-com",
+    "clientId": "sba-discussion",
+    "domain": "loanservicesllc.com",
+    "project": "loanservicesllc-com",
+    "repository": "https://github.com/hsutech/loanservicesllc-com",
+    "title": "An SBA Startup Loan Application File That Makes Sense",
+    "slug": "sba-startup-loan-application-file",
+    "route": "/blog/sba-startup-loan-application-file/",
+    "description": "Build a consistent SBA startup loan file with a use-of-funds schedule, financial assumptions and a clear record of unresolved questions.",
+    "author": "Loan Services LLC Editorial Team",
+    "language": "en",
+    "market": "United States",
+    "date": "2026-10-17",
+    "sourceFile": "content/sba-startup-loans-2026-10-17/loanservicesllc-com.md",
+    "artifactDirectory": "dist",
+    "state": "research_complete",
+    "wordTarget": [
+      1300,
+      1800
+    ],
+    "origin": "https://loanservicesllc.com",
+    "keyword": "SBA loan for a new business",
+    "type": "guide",
+    "angle": "Build a consistent SBA startup loan file with a use-of-funds schedule, financial assumptions and a clear record of unresolved questions."
+  },
+  "checked_at": "2026-10-17",
+  "serp": {
+    "patterns": [
+      "Official SBA program eligibility",
+      "Startup business plan and lender readiness",
+      "Forum questions about access without operating history"
+    ],
+    "gap": "Build a consistent SBA startup loan file with a use-of-funds schedule, financial assumptions and a clear record of unresolved questions."
+  },
+  "sources": [
+    {
+      "url": "https://www.sba.gov/loans/7a-loans/",
+      "kind": "primary source",
+      "context": " avoidable and can distract attention from the actual credit questions.\n\n## Confirm the financing category before gathering everything\n\nThe [SBA 7(a) overview](https://www.sba.gov/loans/7a-loans/) describes eligible financing uses and broad eligibility considerations, including creditworthiness and repayment ability. It does"
+    },
+    {
+      "url": "https://www.sba.gov/counseling/plan-your-business/",
+      "kind": "primary source",
+      "context": "ttern. For a service business, appointment capacity and staff availability may matter more than a broad claim about market size.\n\nThe SBA's [business planning guidance](https://www.sba.gov/counseling/plan-your-business/) provides context for building a plan and estimating startup needs. Use planning resources to clarify the commercial logic; do not"
+    },
+    {
+      "url": "https://www.reddit.com/r/loansforsmallbusiness/comments/1usches/sba_loan_for_a_new_business_is_it_even_possible/",
+      "kind": "unverified discussion",
+      "context": "tion matters when deciding whether to place an order, sign a lease or make another commitment.\n\n## Use forum questions to audit the file\n\nA [startup SBA loan discussion](https://www.reddit.com/r/loansforsmallbusiness/comments/1usches/sba_loan_for_a_new_business_is_it_even_possible/) can help founders recognize uncertainties they have not yet addressed. The linked accounts are not independently verified underwr"
+    }
+  ],
+  "claims": {
+    "verified": [
+      "SBA-backed loans require lender underwriting",
+      "Microloan proceeds cannot refinance existing debt or purchase real estate",
+      "504 is for qualifying fixed assets, not operating working capital"
+    ],
+    "external_observations": [
+      "User-supplied Reddit discussion is anecdotal and not independently verified"
+    ],
+    "editorial_inferences": [
+      "Build a consistent SBA startup loan file with a use-of-funds schedule, financial assumptions and a clear record of unresolved questions.",
+      "Worked examples and preparation suggestions are original educational analysis, not SBA underwriting rules"
+    ],
+    "firsthand_evidence": []
+  },
+  "conflicts": [
+    "504 public page headline and body show different maximum amounts; no maximum quoted. Current ownership/citizenship and lender-specific standards must be confirmed; do not state a universal down payment, credit score, minimum trading history or approval timeline."
+  ],
+  "must_not_claim": [
+    "Guaranteed funding",
+    "SBA endorsement of this site",
+    "Forum consensus or verified borrower outcomes",
+    "Site is an SBA lender without evidence"
+  ],
+  "brief": {
+    "directAnswer": "Build a consistent SBA startup loan file with a use-of-funds schedule, financial assumptions and a clear record of unresolved questions.",
+    "wordTarget": [
+      1300,
+      1800
+    ],
+    "rationale": "Cover a specific startup financing decision with worked preparation examples and limits",
+    "visualPlan": "No generic infographic; native editorial typography and useful prose",
+    "newContentOnly": true
+  },
+  "internalLinks": [
+    {
+      "label": "business financing overview",
+      "url": "/services/business/"
+    },
+    {
+      "label": "comparing written business financing offers",
+      "url": "/blog/compare-written-business-financing-offers/"
+    }
+  ]
+}
